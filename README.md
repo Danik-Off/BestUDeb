@@ -29,4 +29,9 @@
 # или
 ```bash
 git clone https://github.com/Danik-Off/bestUDeb.git
+cd bestUDeb
+```
+2. Дайте права на выполнение и запустите от имени администратора
+```bash
+  sudo ./bestUDeb.sh
 ```

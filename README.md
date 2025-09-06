@@ -33,5 +33,6 @@ cd bestUDeb
 ```
 2. Дайте права на выполнение и запустите от имени администратора
 ```bash
+  chmod +x bestUDeb.sh
   sudo ./bestUDeb.sh
 ```

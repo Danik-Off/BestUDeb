@@ -29,6 +29,6 @@
 
 1. Скачайте скрипт:
 ```bash
-wget https://github.com/ваш_логин/bestUDeb/blob/main/bestUDeb.sh
+wget https://github.com/Danik-Off/bestUDeb/blob/main/bestUDeb.sh
 # или
-git clone https://github.com/ваш_логин/bestUDeb.git
+git clone https://github.com/Danik-Off/bestUDeb.git
